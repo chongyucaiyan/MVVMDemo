@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_content_padding">16dp</dimen>
+
+    <!--查询天气页面-->
+    <dimen name="query_weather_margin">16dp</dimen>
+</resources>
